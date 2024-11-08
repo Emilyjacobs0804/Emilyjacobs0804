@@ -1,4 +1,8 @@
 ## Hi there 👋
+Nice to meet you! If you're on this page you're probably one of my teachers.
+My interests at the moment are Pokemon, Zelda, Pikmin, Yugioh, Spaltoon, and all things anime and retro games!
+I'm an artist! I heavily dislike generative AI and cannot be friends with you if you support it.
+I'm currently learning Japanese!
 
 <!--
 **Emilyjacobs0804/Emilyjacobs0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Japanese
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
